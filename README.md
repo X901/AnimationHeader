@@ -1,5 +1,5 @@
 ## AnimationHeader
-### Animation Header by chaning its hight size when user scolling up or down using StackView
+### Animation Header by changing its hight size when user scolling up or down using StackView
 
 ## Demo :
 
